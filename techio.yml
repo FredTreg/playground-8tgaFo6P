@@ -1,0 +1,209 @@
+title: Kotlin Koans
+plan:
+  - title: Introduction
+    plan:
+    - title: Hello, world!
+      statement: Introduction/Hello, world!/task.md
+    - title: Named arguments
+      statement: Introduction/Named arguments/task.md
+    - title: Lambdas
+      statement: Introduction/Lambdas/task.md
+    - title: Strings
+      statement: Introduction/Strings/task.md
+    - title: Nullable types
+      statement: Introduction/Nullable types/task.md
+    - title: Smart casts
+      statement: Introduction/Smart casts/task.md
+    - title: Extension functions
+      statement: Introduction/Extension functions/task.md
+    - title: SAM conversions
+      statement: Introduction/SAM conversions/task.md
+    - title: Extensions on collections
+      statement: Introduction/Extensions on collections/task.md
+  - title: Conventions
+    plan:
+    - title: Operators overloading
+      statement: Conventions/Operators overloading/task.md
+    - title: Invoke
+      statement: Conventions/Invoke/task.md
+  - title: Collections
+    plan:
+    - title: Introduction
+      statement: Collections/Introduction/task.md
+    - title: Filter map
+      statement: Collections/Filter map/task.md
+    - title: All Any and other predicates
+      statement: Collections/All Any and other predicates/task.md
+    - title: FlatMap
+      statement: Collections/FlatMap/task.md
+    - title: Max min
+      statement: Collections/Max min/task.md
+    - title: Sort
+      statement: Collections/Sort/task.md
+    - title: Sum
+      statement: Collections/Sum/task.md
+    - title: GroupBy
+      statement: Collections/GroupBy/task.md
+    - title: Partition
+      statement: Collections/Partition/task.md
+    - title: Fold
+      statement: Collections/Fold/task.md
+    - title: Compound tasks
+      statement: Collections/Compound tasks/task.md
+  - title: Properties
+    plan:
+    - title: Properties
+      statement: Properties/Properties/task.md
+    - title: Lazy property
+      statement: Properties/Lazy property/task.md
+    - title: Delegates how it works
+      statement: Properties/Delegates how it works/task.md
+  - title: Builders
+    plan:
+    - title: Function literals with receiver
+      statement: Builders/Function literals with receiver/task.md
+    - title: The function apply
+      statement: Builders/The function apply/task.md
+    - title: Builders how it works
+      statement: Builders/Builders how it works/task.md
+projects:
+  kotlin-koans-0-0:
+    root: Introduction/Hello, world!
+    runner:
+      language: kotlin
+      name: techio/kotlin-maven3-junit4-runner:1.0.0
+  kotlin-koans-0-2:
+    root: Introduction/Named arguments
+    runner:
+      language: kotlin
+      name: techio/kotlin-maven3-junit4-runner:1.0.0
+  kotlin-koans-0-4:
+    root: Introduction/Lambdas
+    runner:
+      language: kotlin
+      name: techio/kotlin-maven3-junit4-runner:1.0.0
+  kotlin-koans-0-5:
+    root: Introduction/Strings
+    runner:
+      language: kotlin
+      name: techio/kotlin-maven3-junit4-runner:1.0.0
+  kotlin-koans-0-7:
+    root: Introduction/Nullable types
+    runner:
+      language: kotlin
+      name: techio/kotlin-maven3-junit4-runner:1.0.0
+  kotlin-koans-0-8:
+    root: Introduction/Smart casts
+    runner:
+      language: kotlin
+      name: techio/kotlin-maven3-junit4-runner:1.0.0
+  kotlin-koans-0-9:
+    root: Introduction/Extension functions
+    runner:
+      language: kotlin
+      name: techio/kotlin-maven3-junit4-runner:1.0.0
+  kotlin-koans-0-11:
+    root: Introduction/SAM conversions
+    runner:
+      language: kotlin
+      name: techio/kotlin-maven3-junit4-runner:1.0.0
+  kotlin-koans-0-12:
+    root: Introduction/Extensions on collections
+    runner:
+      language: kotlin
+      name: techio/kotlin-maven3-junit4-runner:1.0.0
+  kotlin-koans-1-4:
+    root: Conventions/Operators overloading
+    runner:
+      language: kotlin
+      name: techio/kotlin-maven3-junit4-runner:1.0.0
+  kotlin-koans-1-6:
+    root: Conventions/Invoke
+    runner:
+      language: kotlin
+      name: techio/kotlin-maven3-junit4-runner:1.0.0
+  kotlin-koans-2-0:
+    root: Collections/Introduction
+    runner:
+      language: kotlin
+      name: techio/kotlin-maven3-junit4-runner:1.0.0
+  kotlin-koans-2-1:
+    root: Collections/Filter map
+    runner:
+      language: kotlin
+      name: techio/kotlin-maven3-junit4-runner:1.0.0
+  kotlin-koans-2-2:
+    root: Collections/All Any and other predicates
+    runner:
+      language: kotlin
+      name: techio/kotlin-maven3-junit4-runner:1.0.0
+  kotlin-koans-2-3:
+    root: Collections/FlatMap
+    runner:
+      language: kotlin
+      name: techio/kotlin-maven3-junit4-runner:1.0.0
+  kotlin-koans-2-4:
+    root: Collections/Max min
+    runner:
+      language: kotlin
+      name: techio/kotlin-maven3-junit4-runner:1.0.0
+  kotlin-koans-2-5:
+    root: Collections/Sort
+    runner:
+      language: kotlin
+      name: techio/kotlin-maven3-junit4-runner:1.0.0
+  kotlin-koans-2-6:
+    root: Collections/Sum
+    runner:
+      language: kotlin
+      name: techio/kotlin-maven3-junit4-runner:1.0.0
+  kotlin-koans-2-7:
+    root: Collections/GroupBy
+    runner:
+      language: kotlin
+      name: techio/kotlin-maven3-junit4-runner:1.0.0
+  kotlin-koans-2-8:
+    root: Collections/Partition
+    runner:
+      language: kotlin
+      name: techio/kotlin-maven3-junit4-runner:1.0.0
+  kotlin-koans-2-9:
+    root: Collections/Fold
+    runner:
+      language: kotlin
+      name: techio/kotlin-maven3-junit4-runner:1.0.0
+  kotlin-koans-2-10:
+    root: Collections/Compound tasks
+    runner:
+      language: kotlin
+      name: techio/kotlin-maven3-junit4-runner:1.0.0
+  kotlin-koans-3-0:
+    root: Properties/Properties
+    runner:
+      language: kotlin
+      name: techio/kotlin-maven3-junit4-runner:1.0.0
+  kotlin-koans-3-1:
+    root: Properties/Lazy property
+    runner:
+      language: kotlin
+      name: techio/kotlin-maven3-junit4-runner:1.0.0
+  kotlin-koans-3-3:
+    root: Properties/Delegates how it works
+    runner:
+      language: kotlin
+      name: techio/kotlin-maven3-junit4-runner:1.0.0
+  kotlin-koans-4-0:
+    root: Builders/Function literals with receiver
+    runner:
+      language: kotlin
+      name: techio/kotlin-maven3-junit4-runner:1.0.0
+  kotlin-koans-4-2:
+    root: Builders/The function apply
+    runner:
+      language: kotlin
+      name: techio/kotlin-maven3-junit4-runner:1.0.0
+  kotlin-koans-4-4:
+    root: Builders/Builders how it works
+    runner:
+      language: kotlin
+      name: techio/kotlin-maven3-junit4-runner:1.0.0
