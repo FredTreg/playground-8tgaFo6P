@@ -7,4 +7,4 @@ In the tasks the function `TODO()` is used that throws an exception.
 Your job during the koans will be to replace this function invocation with a meaningful code according to the problem.
 
 
-@[Task]({"project": "kotlin-koans", "stubs": ["Introduction/Hello, world!/src/Task.kt"], "command": "Introduction/Hello\\,\\ world\\! TestStart"})
+@[Task]({"project": "kotlin-koans", "stubs": ["Introduction/Hello, world!/src/Task.kt"], "command": "\"Introduction/Hello, world!\" TestStart"})
