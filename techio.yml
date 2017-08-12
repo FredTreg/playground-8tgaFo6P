@@ -8,4 +8,4 @@ projects:
   kotlin-koans-0-0:
     root: Introduction/Hello, world!
     runner:
-      name: techio/kotlin-maven3-junit4-runner:1.0.1
+      name: techio/kotlin-maven3-junit4-runner:1.0.3
