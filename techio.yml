@@ -5,7 +5,6 @@ plan:
     - title: Hello, world!
       statement: Introduction/Hello, world!/task.md
 projects:
-  kotlin-koans-0-0:
-    root: Introduction/Hello, world!
-    runner:
-      name: techio/kotlin-maven3-junit4-runner:latest
+  kotlin-koans:
+    root: /
+    runner: techio/kotlin-maven3-junit4-runner:latest
