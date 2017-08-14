@@ -7,4 +7,4 @@ Pass a lambda to [`any`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.col
 function to check if the collection contains an even number.
 The function `any` gets a predicate as an argument and returns true if there is at least one element satisfying the predicate.
 
-@[Task]({"project": "kotlin-koans-0-4", "stubs": ["src/Task.kt"], "command": "TestLambdas"})
+@[Task]({"project": "kotlin-koans", "stubs": ["Introduction/Lambdas/src/Task.kt"], "command": "\"Introduction/Lambdas\" TestLambdas"})

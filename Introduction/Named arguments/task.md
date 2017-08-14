@@ -17,4 +17,4 @@ fun joinToString(
 It can be called on a collection of Strings.
 Specifying only two arguments make the function `joinOptions()` return the list in a JSON format (e.g., "[a, b, c]")
 
-@[Task]({"project": "kotlin-koans-0-2", "stubs": ["src/Task.kt"], "command": "TestNamedArguments"})
+@[Task]({"project": "kotlin-koans", "stubs": ["Introduction/Named arguments/src/Task.kt"], "command": "\"Introduction/Named arguments\" TestNamedArguments"})

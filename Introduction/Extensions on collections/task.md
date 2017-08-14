@@ -9,4 +9,4 @@ there are lots of extension functions that make the work with collections more c
 Rewrite the previous example once more using an extension function
 [`sortedDescending`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/kotlin.-iterable/sorted-descending.html).
 
-@[Task]({"project": "kotlin-koans-0-12", "stubs": ["src/Task.kt"], "command": "TestExtensionsOnCollections"})
+@[Task]({"project": "kotlin-koans", "stubs": ["Introduction/Extensions on collections/src/Task.kt"], "command": "\"Introduction/Extensions on collections\" TestExtensionsOnCollections"})

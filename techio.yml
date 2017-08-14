@@ -4,6 +4,22 @@ plan:
     plan:
     - title: Hello, world!
       statement: Introduction/Hello, world!/task.md
+    - title: Named arguments
+      statement: Introduction/Named arguments/task.md
+    - title: Lambdas
+      statement: Introduction/Lambdas/task.md
+    - title: Strings
+      statement: Introduction/Strings/task.md
+    - title: Nullable types
+      statement: Introduction/Nullable types/task.md
+    - title: Smart casts
+      statement: Introduction/Smart casts/task.md
+    - title: Extension functions
+      statement: Introduction/Extension functions/task.md
+    - title: SAM conversions
+      statement: Introduction/SAM conversions/task.md
+    - title: Extensions on collections
+      statement: Introduction/Extensions on collections/task.md
 projects:
   kotlin-koans:
     root: /

@@ -6,4 +6,4 @@ Read more about [SAM-conversions](https://kotlinlang.org/docs/reference/java-int
 
 In the previous example change an object expression to a lambda.
 
-@[Task]({"project": "kotlin-koans-0-11", "stubs": ["src/Task.kt"], "command": "TestSamConversions"})
+@[Task]({"project": "kotlin-koans", "stubs": ["Introduction/SAM conversions/src/Task.kt"], "command": "\"Introduction/SAM conversions\" TestSamConversions"})

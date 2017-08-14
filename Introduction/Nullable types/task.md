@@ -22,4 +22,4 @@ public void sendMessageToClient(
 }
 ```
 
-@[Task]({"project": "kotlin-koans-0-7", "stubs": ["src/Task.kt"], "command": "TestNullableTypes"})
+@[Task]({"project": "kotlin-koans", "stubs": ["Introduction/Nullable types/src/Task.kt"], "command": "\"Introduction/Nullable types\" TestNullableTypes"})

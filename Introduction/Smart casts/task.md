@@ -16,4 +16,4 @@ public int eval(Expr expr) {
 }
 ```
 
-@[Task]({"project": "kotlin-koans-0-8", "stubs": ["src/Task.kt"], "command": "TestSmartCasts"})
+@[Task]({"project": "kotlin-koans", "stubs": ["Introduction/Smart casts/src/Task.kt"], "command": "\"Introduction/Smart casts\" TestSmartCasts"})

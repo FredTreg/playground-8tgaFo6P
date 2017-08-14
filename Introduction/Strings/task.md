@@ -12,4 +12,4 @@ fun getPattern() = """\d{2}\.\d{2}\.\d{4}"""
 Using `month` variable rewrite this pattern in such a way that it matches the date in format `13 JUN 1992`
 (two digits, a whitespace, a month abbreviation, a whitespace, four digits).
 
-@[Task]({"project": "kotlin-koans-0-5", "stubs": ["src/Task.kt"], "command": "TestStringTemplates"})
+@[Task]({"project": "kotlin-koans", "stubs": ["Introduction/Strings/src/Task.kt"], "command": "\"Introduction/Strings\" TestStringTemplates"})
