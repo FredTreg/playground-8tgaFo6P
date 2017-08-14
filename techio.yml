@@ -20,6 +20,52 @@ plan:
       statement: Introduction/SAM conversions/task.md
     - title: Extensions on collections
       statement: Introduction/Extensions on collections/task.md
+  - title: Conventions
+    plan:
+    - title: Operators overloading
+      statement: Conventions/Operators overloading/task.md
+    - title: Invoke
+      statement: Conventions/Invoke/task.md
+  - title: Collections
+    plan:
+    - title: Introduction
+      statement: Collections/Introduction/task.md
+    - title: Filter map
+      statement: Collections/Filter map/task.md
+    - title: All Any and other predicates
+      statement: Collections/All Any and other predicates/task.md
+    - title: FlatMap
+      statement: Collections/FlatMap/task.md
+    - title: Max min
+      statement: Collections/Max min/task.md
+    - title: Sort
+      statement: Collections/Sort/task.md
+    - title: Sum
+      statement: Collections/Sum/task.md
+    - title: GroupBy
+      statement: Collections/GroupBy/task.md
+    - title: Partition
+      statement: Collections/Partition/task.md
+    - title: Fold
+      statement: Collections/Fold/task.md
+    - title: Compound tasks
+      statement: Collections/Compound tasks/task.md
+  - title: Properties
+    plan:
+    - title: Properties
+      statement: Properties/Properties/task.md
+    - title: Lazy property
+      statement: Properties/Lazy property/task.md
+    - title: Delegates how it works
+      statement: Properties/Delegates how it works/task.md
+  - title: Builders
+    plan:
+    - title: Function literals with receiver
+      statement: Builders/Function literals with receiver/task.md
+    - title: The function apply
+      statement: Builders/The function apply/task.md
+    - title: Builders how it works
+      statement: Builders/Builders how it works/task.md
 projects:
   kotlin-koans:
     root: /
